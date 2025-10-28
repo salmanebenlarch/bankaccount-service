@@ -45,14 +45,11 @@ Elle permet de consulter la liste des comptes et de rechercher un compte par son
 ## swagger
 <img width="1731" height="976" alt="image" src="https://github.com/user-attachments/assets/3a20d817-8bc3-4e1f-bf9c-e89afa239d7f" />
 
-## graphQL
-![WhatsApp Image 2025-10-06 at 18 35 29_78e20d45](https://github.com/user-attachments/assets/820b1067-2590-4e68-ade4-a40759b44b26)
-![WhatsApp Image 2025-10-06 at 18 51 02_11b49610](https://github.com/user-attachments/assets/10346e6a-5c87-4ea4-a51b-18f4c110ed5d)
-![WhatsApp Image 2025-10-06 at 19 04 42_3f85302d](https://github.com/user-attachments/assets/3286e8bf-db1c-483b-bcf9-02be2ed200f7)
+
 
 
 
 1. Cloner le projet :
 
 ```bash
-git clone https://github.com/salmabourizi-dev/bank-account-service.git
+https://github.com/salmanebenlarch/bankaccount-service)
